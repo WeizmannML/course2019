@@ -5,5 +5,5 @@
 - Tutorial slides: https://www.weizmann.ac.il/particle/Gross/ml-course
 
 ## Outline
-* [Clustering](clustering.ipynb)
+* [Clustering](Clustering.ipynb)
 * [Deminsionality reduction](Dimensionality_reduction.ipynb)

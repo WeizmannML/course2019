@@ -1,4 +1,4 @@
-# ML Course 2019
+# ML Course 2019 (WeizmannML)
 
 GITHUB page for the machine-learninig course offered at Weizmann Institute during Spring, 2019. 
 
